@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/duck_mvt_1.png</file>
+        <file>images/duck_mvt_2.png</file>
+        <file>images/duck_tombe_1.png</file>
+        <file>images/duck_tombe_2.png</file>
+        <file>images/duck_vise.png</file>
+        <file>images/background.png</file>
+        <file>images/foreground.png</file>
+        <file>images/crosshair.png</file>
+    </qresource>
+</RCC>
